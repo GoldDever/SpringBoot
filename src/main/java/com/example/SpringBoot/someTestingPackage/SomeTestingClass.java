@@ -5,4 +5,7 @@ public class SomeTestingClass {
         System.out.println("Some new changes");
         System.out.println("Adding additional changes");
     }
+    public void testingMethod(){
+        System.out.println("hey");
+    }
 }
