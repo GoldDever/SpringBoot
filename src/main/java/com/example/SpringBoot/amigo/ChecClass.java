@@ -4,4 +4,5 @@ import java.time.ZonedDateTime;
 
 public class ChecClass {
     private ZonedDateTime createdAt;
+    private String name;
 }
