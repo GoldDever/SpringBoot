@@ -7,5 +7,5 @@ import java.time.ZonedDateTime;
 public class ChecClass {
     private ZonedDateTime createdAt;
     private AmigoInterface someClass;
-    private String name;
+    private String lastName;
 }
