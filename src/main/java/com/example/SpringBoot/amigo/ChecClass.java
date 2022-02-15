@@ -10,4 +10,5 @@ public class ChecClass {
     private Long directoryId;
     private String someField;
     private String car;
+    private String bike;
 }
