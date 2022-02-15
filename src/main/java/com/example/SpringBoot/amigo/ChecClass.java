@@ -7,4 +7,5 @@ import java.time.ZonedDateTime;
 public class ChecClass {
     private Long Id;
     private String nickName;
+    private Long directoryId;
 }
