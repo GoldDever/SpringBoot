@@ -11,4 +11,5 @@ public class ChecClass {
     private String someField;
     private String car;
     private String bike;
+    private String dog;
 }
