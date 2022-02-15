@@ -9,4 +9,5 @@ public class ChecClass {
     private String nickName;
     private Long directoryId;
     private String someField;
+    private String car;
 }
